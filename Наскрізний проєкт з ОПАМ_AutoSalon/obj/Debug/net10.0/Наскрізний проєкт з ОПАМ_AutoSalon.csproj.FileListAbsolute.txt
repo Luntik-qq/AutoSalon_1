@@ -1,0 +1,14 @@
+C:\Users\sasha\RiderProjects\Наскрізний проєкт з ОПАМ_AutoSalon\Наскрізний проєкт з ОПАМ_AutoSalon\bin\Debug\net10.0\Наскрізний проєкт з ОПАМ_AutoSalon.exe
+C:\Users\sasha\RiderProjects\Наскрізний проєкт з ОПАМ_AutoSalon\Наскрізний проєкт з ОПАМ_AutoSalon\bin\Debug\net10.0\Наскрізний проєкт з ОПАМ_AutoSalon.deps.json
+C:\Users\sasha\RiderProjects\Наскрізний проєкт з ОПАМ_AutoSalon\Наскрізний проєкт з ОПАМ_AutoSalon\bin\Debug\net10.0\Наскрізний проєкт з ОПАМ_AutoSalon.runtimeconfig.json
+C:\Users\sasha\RiderProjects\Наскрізний проєкт з ОПАМ_AutoSalon\Наскрізний проєкт з ОПАМ_AutoSalon\bin\Debug\net10.0\Наскрізний проєкт з ОПАМ_AutoSalon.dll
+C:\Users\sasha\RiderProjects\Наскрізний проєкт з ОПАМ_AutoSalon\Наскрізний проєкт з ОПАМ_AutoSalon\bin\Debug\net10.0\Наскрізний проєкт з ОПАМ_AutoSalon.pdb
+C:\Users\sasha\RiderProjects\Наскрізний проєкт з ОПАМ_AutoSalon\Наскрізний проєкт з ОПАМ_AutoSalon\obj\Debug\net10.0\Наскрізний проєкт з ОПАМ_AutoSalon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sasha\RiderProjects\Наскрізний проєкт з ОПАМ_AutoSalon\Наскрізний проєкт з ОПАМ_AutoSalon\obj\Debug\net10.0\Наскрізний проєкт з ОПАМ_AutoSalon.AssemblyInfoInputs.cache
+C:\Users\sasha\RiderProjects\Наскрізний проєкт з ОПАМ_AutoSalon\Наскрізний проєкт з ОПАМ_AutoSalon\obj\Debug\net10.0\Наскрізний проєкт з ОПАМ_AutoSalon.AssemblyInfo.cs
+C:\Users\sasha\RiderProjects\Наскрізний проєкт з ОПАМ_AutoSalon\Наскрізний проєкт з ОПАМ_AutoSalon\obj\Debug\net10.0\Наскрізний проєкт з ОПАМ_AutoSalon.csproj.CoreCompileInputs.cache
+C:\Users\sasha\RiderProjects\Наскрізний проєкт з ОПАМ_AutoSalon\Наскрізний проєкт з ОПАМ_AutoSalon\obj\Debug\net10.0\Наскрізний проєкт з ОПАМ_AutoSalon.dll
+C:\Users\sasha\RiderProjects\Наскрізний проєкт з ОПАМ_AutoSalon\Наскрізний проєкт з ОПАМ_AutoSalon\obj\Debug\net10.0\refint\Наскрізний проєкт з ОПАМ_AutoSalon.dll
+C:\Users\sasha\RiderProjects\Наскрізний проєкт з ОПАМ_AutoSalon\Наскрізний проєкт з ОПАМ_AutoSalon\obj\Debug\net10.0\Наскрізний проєкт з ОПАМ_AutoSalon.pdb
+C:\Users\sasha\RiderProjects\Наскрізний проєкт з ОПАМ_AutoSalon\Наскрізний проєкт з ОПАМ_AutoSalon\obj\Debug\net10.0\Наскрізний проєкт з ОПАМ_AutoSalon.genruntimeconfig.cache
+C:\Users\sasha\RiderProjects\Наскрізний проєкт з ОПАМ_AutoSalon\Наскрізний проєкт з ОПАМ_AutoSalon\obj\Debug\net10.0\ref\Наскрізний проєкт з ОПАМ_AutoSalon.dll

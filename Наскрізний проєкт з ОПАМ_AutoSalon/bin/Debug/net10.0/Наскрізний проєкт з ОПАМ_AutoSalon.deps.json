@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Наскрізний проєкт з ОПАМ_AutoSalon/1.0.0": {
+        "runtime": {
+          "Наскрізний проєкт з ОПАМ_AutoSalon.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Наскрізний проєкт з ОПАМ_AutoSalon/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
